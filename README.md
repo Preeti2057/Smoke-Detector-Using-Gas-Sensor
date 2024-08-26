@@ -1,1 +1,1 @@
-Smoke Detector Using Gas Sensor
+Smoke-Detector-Using-Gas-Sensor
